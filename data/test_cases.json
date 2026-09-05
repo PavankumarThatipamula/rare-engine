@@ -1,0 +1,1202 @@
+[
+  {
+    "dispute_id": "disp_BWT5V1A3XUABGV",
+    "transaction_id": "pay_3HWJ8RNX2F9LI8",
+    "amount": 40020.67,
+    "currency": "INR",
+    "reason_code": "4853",
+    "network": "Mastercard",
+    "reason_description": "Defective/Not as Described",
+    "customer": {
+      "name": "Jacob Herring",
+      "email": "ashley54@example.net",
+      "ip_address": "19.75.212.248",
+      "shipping_address": "849 Richardson Street Apt. 451, Port Nicole, PA 19672"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "5862e635b95de7ba3c065b6f03ace96d951ac0c8377240ef522e736caea4ceaa"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_3HWJ8RNX2F9LI8.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_31A9A0D9Z1DBU1",
+    "transaction_id": "pay_H8IL3DG57ZKD9R",
+    "amount": 44750.51,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Bradley Keith",
+      "email": "eolson@example.net",
+      "ip_address": "110.59.145.228",
+      "shipping_address": "8201 Williams Underpass, New Mariaberg, TN 53320"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "d568c2ef638efc4a7202d23dc07462f36868e8b3340ce02b759668f663c407e3"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_H8IL3DG57ZKD9R.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_4BYOHKOYM0MIO7",
+    "transaction_id": "pay_N7XWW0PMRENK3C",
+    "amount": 3056.32,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Jay Johnson",
+      "email": "kristaanderson@example.net",
+      "ip_address": "21.151.148.237",
+      "shipping_address": "14682 Foster Green, New James, TN 78291"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "e78903921833a05882a9b1058de469fc465252a562733a61c1f65eca6cc3c7bd"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_N7XWW0PMRENK3C.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_FYRHSS8PRBX9XO",
+    "transaction_id": "pay_D3PW0BPMHECUSH",
+    "amount": 28131.12,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Michelle Romero",
+      "email": "smithchristopher@example.net",
+      "ip_address": "87.37.70.93",
+      "shipping_address": "9548 Jennifer Summit Suite 328, New Joshua, PA 11646"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "6cc6ffe0a4f9b80f8c107e44c7a136a6f9d0f7da95b1706aa6cfba258e531221"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_D3PW0BPMHECUSH.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_6DU1KHMBUAB8MR",
+    "transaction_id": "pay_CDDDUDCFN987Z7",
+    "amount": 42742.55,
+    "currency": "INR",
+    "reason_code": "10.4",
+    "network": "Visa",
+    "reason_description": "Other Fraud - Card-Absent Environment",
+    "customer": {
+      "name": "Brandon Coffey",
+      "email": "yrandall@example.com",
+      "ip_address": "178.249.130.129",
+      "shipping_address": "0594 Pierce Rapids, Kellybury, CO 24438"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "91689d4becedded163a0601e46d5f2ae7760780c6c4c64f2c87d36d1987d91c5"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_CDDDUDCFN987Z7.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_V7W8PV4XVOO3N2",
+    "transaction_id": "pay_TX5QQX67SX7AJA",
+    "amount": 35117.39,
+    "currency": "INR",
+    "reason_code": "4853",
+    "network": "Mastercard",
+    "reason_description": "Defective/Not as Described",
+    "customer": {
+      "name": "Edward Stephens",
+      "email": "williamspencer@example.org",
+      "ip_address": "144.41.9.252",
+      "shipping_address": "4515 Donna Via, East Sara, MI 79089"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "c6a21cf8ea53406c4b3c05637cedb52b4d3fa2746a0ccee3fde3f2823f0ecdd3"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_TX5QQX67SX7AJA.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_N2GAB4PYG1WFVC",
+    "transaction_id": "pay_KNAFUDERVHW7QC",
+    "amount": 1601.32,
+    "currency": "INR",
+    "reason_code": "10.4",
+    "network": "Visa",
+    "reason_description": "Other Fraud - Card-Absent Environment",
+    "customer": {
+      "name": "Justin Bean",
+      "email": "bethany49@example.org",
+      "ip_address": "21.193.31.206",
+      "shipping_address": "9688 Wayne Mill Apt. 573, Port Rachelland, AK 41082"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "4a11d244083fe9741471ccf10dde36dcc3658451c4cb3d18e33776202f3144c3"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_KNAFUDERVHW7QC.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_3NAINFTFP3IR4M",
+    "transaction_id": "pay_00ENIS78FMBVWK",
+    "amount": 6924.32,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Sheri Gilbert",
+      "email": "joshua53@example.com",
+      "ip_address": "62.81.60.127",
+      "shipping_address": "7060 Benjamin Mountains Suite 939, Katherineland, PW 55914"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "cfa221947fbe1162ab0331b5d739fe2359622c79904a825672f808103113ca68"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_00ENIS78FMBVWK.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_2NO42BSTSGIEE9",
+    "transaction_id": "pay_ESGR48XKU8S4T1",
+    "amount": 28564.33,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Jasmine Vazquez",
+      "email": "burnsaustin@example.org",
+      "ip_address": "197.253.223.171",
+      "shipping_address": "PSC 5115, Box 9855, APO AE 07170"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "c68def728b76428e2b68c1babdd98dde281181fb21756b5904df88b20fc0c5d0"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_ESGR48XKU8S4T1.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_SLWQLDSRKO9VDJ",
+    "transaction_id": "pay_VDX7RJ6F72FHY4",
+    "amount": 33341.84,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Susan Watson",
+      "email": "boydandre@example.org",
+      "ip_address": "212.210.87.42",
+      "shipping_address": "169 Love Bypass Suite 453, Kingside, WA 72345"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "4fc0278f9f3950ac3d80e23d7eca526e5c9c365d9888b9bf04577eb2167b095d"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_VDX7RJ6F72FHY4.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_NYFKS95HD07J8R",
+    "transaction_id": "pay_QPU9N8Z1RSCTSB",
+    "amount": 34169.15,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Daniel Hicks",
+      "email": "smithangela@example.com",
+      "ip_address": "157.120.128.53",
+      "shipping_address": "217 Jessica Fields, South Scott, AR 36779"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "e7da372e77856c582a261a4c5af714edb88be5f2b50541e36b90ed0573e4b78d"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_QPU9N8Z1RSCTSB.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_EZY5VD7P79DRLE",
+    "transaction_id": "pay_N2PGJR4THUC33S",
+    "amount": 38015.76,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Mark Lewis",
+      "email": "richard55@example.com",
+      "ip_address": "22.36.70.236",
+      "shipping_address": "9765 Hunter Fall Suite 823, East Hannahchester, TN 20743"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "8e6ef30d8203a35c982c99fafa0338868afa6b5466902e62b5d1f59de9085e2a"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_N2PGJR4THUC33S.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_T9RM7HW8VO4F82",
+    "transaction_id": "pay_2F0GARVQ9RLEHP",
+    "amount": 21428.3,
+    "currency": "INR",
+    "reason_code": "4853",
+    "network": "Mastercard",
+    "reason_description": "Defective/Not as Described",
+    "customer": {
+      "name": "John Williams",
+      "email": "brettharrison@example.net",
+      "ip_address": "68.125.218.112",
+      "shipping_address": "453 Gallagher Mount Apt. 765, South Victoriahaven, FM 70840"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "aa2a4cdc012a4dff64d0998f3331cd2fb15668127ace3be45e3e490e95e0f3dd"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_2F0GARVQ9RLEHP.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_UW600VQ03OVYOV",
+    "transaction_id": "pay_Z0FOD3R08J9BAD",
+    "amount": 29652.25,
+    "currency": "INR",
+    "reason_code": "10.4",
+    "network": "Visa",
+    "reason_description": "Other Fraud - Card-Absent Environment",
+    "customer": {
+      "name": "Danielle Lee",
+      "email": "traceystewart@example.com",
+      "ip_address": "22.144.216.105",
+      "shipping_address": "49192 Tran Turnpike Apt. 382, Millerview, IA 98801"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "3778f3fbc823a3a1a6538185b6ec1ad1c704eb1897ad35e41d9ce542ef04798b"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_Z0FOD3R08J9BAD.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_I04W4XGSLCOEF3",
+    "transaction_id": "pay_FCMTES5F5QG2M4",
+    "amount": 42006.85,
+    "currency": "INR",
+    "reason_code": "10.4",
+    "network": "Visa",
+    "reason_description": "Other Fraud - Card-Absent Environment",
+    "customer": {
+      "name": "Susan Doyle",
+      "email": "jessica88@example.org",
+      "ip_address": "40.211.216.217",
+      "shipping_address": "Unit 9486 Box 9772, DPO AP 13847"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "a44a745b5489ba278c4456e154ce7baaf28b5cec4a656e34f34154e02381f8d2"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_FCMTES5F5QG2M4.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_N45517P2UU11CP",
+    "transaction_id": "pay_DB96K4RKMRWUNG",
+    "amount": 17531.53,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Sherri Ritter",
+      "email": "keith91@example.com",
+      "ip_address": "40.136.200.52",
+      "shipping_address": "65890 Jose Shore, Riceport, LA 77237"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "d4c31be795b110c4468e764917d91bebfb00908ac7672595ababfbc94e5d32dc"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_DB96K4RKMRWUNG.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_5O10ZBT3GMH30X",
+    "transaction_id": "pay_0D22VIEB54NQCF",
+    "amount": 37390.35,
+    "currency": "INR",
+    "reason_code": "4853",
+    "network": "Mastercard",
+    "reason_description": "Defective/Not as Described",
+    "customer": {
+      "name": "Tina Johnson",
+      "email": "ulewis@example.com",
+      "ip_address": "194.18.244.82",
+      "shipping_address": "98080 Robertson Walks Suite 164, Lynchside, AL 28397"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "67d65f7b0367e274cbf9ae291c878f5bbdadc5156828ceb56731ea9ac2527824"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_0D22VIEB54NQCF.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_VVHTPSHNGINJL0",
+    "transaction_id": "pay_OBJIP4S3LXVX57",
+    "amount": 31865.15,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Miranda Martin",
+      "email": "avilaashley@example.com",
+      "ip_address": "184.247.172.221",
+      "shipping_address": "28189 Kathleen Fork Suite 756, East Gregoryborough, GA 91509"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "e3ceaeb8fc939dcba68758d552bcda4733134429915136cfc4d11dc035850318"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_OBJIP4S3LXVX57.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_9RXV1XCIQ0KM5W",
+    "transaction_id": "pay_PIONP7UZ0NB2CH",
+    "amount": 23093.32,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Paul Morrison",
+      "email": "georgenicole@example.net",
+      "ip_address": "130.21.26.44",
+      "shipping_address": "Unit 2584 Box 8455, DPO AP 09334"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "c1dbf4dd1d06b6f662faae4885906aa00e9cbe4284f615f04352a4bb3d9ec90f"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_PIONP7UZ0NB2CH.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_R310CHCGSABWH8",
+    "transaction_id": "pay_3JXRY019T10DBF",
+    "amount": 21806.82,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Jared Fisher",
+      "email": "jimmy55@example.org",
+      "ip_address": "44.208.122.189",
+      "shipping_address": "5496 Joseph Neck Apt. 216, Jasonshire, FL 49674"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "87100102554a62c804a0bb4ea272d0d685fa61bedfb48a0eb70583e980bb06d3"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_3JXRY019T10DBF.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_IWR0CU72ACKO13",
+    "transaction_id": "pay_8CT2Y1ERJW5WRD",
+    "amount": 12569.98,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Bradley Martinez",
+      "email": "ycollins@example.com",
+      "ip_address": "108.126.70.175",
+      "shipping_address": "9887 Katelyn Plain, Port Mindy, MP 03612"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "ef5d8358704b6445befa9a1c9bcee646ce3bb8c0d0a2016200f50798898d9b07"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_8CT2Y1ERJW5WRD.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_EIPNIJJ7Q22242",
+    "transaction_id": "pay_AVPPXYG5YKPB9M",
+    "amount": 30561.22,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Sharon Hubbard",
+      "email": "jessicaarmstrong@example.com",
+      "ip_address": "166.167.252.235",
+      "shipping_address": "579 Watson Station, Jeffshire, VI 10680"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "699b755e674ffa3b429eed407b0113bae019b113cc54242b3dbc2c0737c94117"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_AVPPXYG5YKPB9M.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_7X6K4LLR7ZJJ7S",
+    "transaction_id": "pay_ZFX4XTTFZ0EP29",
+    "amount": 14516.15,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Lindsay Baker",
+      "email": "michael19@example.net",
+      "ip_address": "117.86.206.120",
+      "shipping_address": "2649 Jake Row Apt. 726, Kellerfurt, WV 04593"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "9a2a0802aca371814f764564fda27bfe7b4a03975ebdc8a928e532b09b6e3c67"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_ZFX4XTTFZ0EP29.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_H82908R8JJDITT",
+    "transaction_id": "pay_PD9604B6ZU6FZD",
+    "amount": 44299.38,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Justin Foley",
+      "email": "eblair@example.net",
+      "ip_address": "200.36.22.131",
+      "shipping_address": "5287 Huffman Landing, West Joel, AZ 31667"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "2012b7ab37bef136b07439579f563fbac5a840312e5704e7e76173e0ff2afed6"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_PD9604B6ZU6FZD.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_Y74DFL30JWXQ04",
+    "transaction_id": "pay_Z1W4RXESZMGFK7",
+    "amount": 9048.42,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Kimberly Blackburn",
+      "email": "catherine52@example.com",
+      "ip_address": "17.223.53.1",
+      "shipping_address": "784 Micheal Plains, New Brian, CO 51559"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "4c30d3e6136a8ace0100709e61dcb1cc8e35f5537a34f0258b1aba5ff13cd705"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_Z1W4RXESZMGFK7.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_ASX7IQGCXIL461",
+    "transaction_id": "pay_FBHKKOTOTU21T6",
+    "amount": 4080.36,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Jonathan Owens",
+      "email": "mirandajennifer@example.net",
+      "ip_address": "188.173.130.23",
+      "shipping_address": "012 Mackenzie Curve Suite 195, West Craig, FM 60713"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "43b6b228269388669a49f0a28a73d82f279934e443e0ab64e2058dc7dad8c097"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_FBHKKOTOTU21T6.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_DJMSADPKHOL8A7",
+    "transaction_id": "pay_BXK77VHUTURSQP",
+    "amount": 3903.17,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Christopher Sanchez",
+      "email": "arnoldanna@example.com",
+      "ip_address": "65.199.224.115",
+      "shipping_address": "70505 Tyler Crescent, Carpenterfurt, NH 32970"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "68006527fbd6bf4dad7a11ba7a673893008e9d819cd049c5d01dbde078717481"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_BXK77VHUTURSQP.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_7KI0V4YBZHYGM2",
+    "transaction_id": "pay_8S6R9XXHST2R8C",
+    "amount": 34799.23,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Shawn Lin",
+      "email": "huffbenjamin@example.org",
+      "ip_address": "65.60.19.175",
+      "shipping_address": "8830 Amy Vista Suite 526, Terrytown, GU 97143"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "02c541dbaec32c1e6b1eba91e09f3fc2cbf89f51d78cc8f808bf449d17ae5083"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_8S6R9XXHST2R8C.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_9ZXN1FU1DQMIQV",
+    "transaction_id": "pay_4H3720CZBT6LDY",
+    "amount": 9509.26,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Mary Wilson",
+      "email": "jamessmith@example.org",
+      "ip_address": "134.198.90.61",
+      "shipping_address": "19933 Cruz Squares Apt. 365, Jenniferbury, ME 51541"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "d1db908f7a594b6efa4a298412265afbd84c2ddba0c6d7044956ff9f2b0c2258"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_4H3720CZBT6LDY.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_RPVW7LIIWUY60H",
+    "transaction_id": "pay_8EWZGHNUYX8FNM",
+    "amount": 25406.46,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Marvin Vaughan",
+      "email": "joseph84@example.net",
+      "ip_address": "188.123.94.37",
+      "shipping_address": "967 Aaron Freeway, South Veronicamouth, LA 24506"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "15641e7331d158747febeb5e32523890a1cd291720c0bd3a783f5f6dfd91640a"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_8EWZGHNUYX8FNM.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_XY1KEJCFYJP5RG",
+    "transaction_id": "pay_S6VQCOGYIMHVIF",
+    "amount": 15047.17,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Heidi Baker",
+      "email": "pearsonjessica@example.com",
+      "ip_address": "59.56.109.147",
+      "shipping_address": "667 Mcgee Center, New Shari, WY 12173"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "e2e90dbb1b07113566b315e56f665d4b7b0afbd835627806287d46e5c46b6da9"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_S6VQCOGYIMHVIF.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_3HYWNPMYRELEMY",
+    "transaction_id": "pay_DDQXVRZNAXCWHM",
+    "amount": 18528.64,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Katherine Barnes",
+      "email": "hmedina@example.net",
+      "ip_address": "207.104.202.28",
+      "shipping_address": "8553 Angela Circles, Saundersshire, OH 78984"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "00d79a5ae8132434e55def5812fbb683532fe527e1ac150c010111b8d8a7ed66"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_DDQXVRZNAXCWHM.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_E4I3G9WRLB7J0H",
+    "transaction_id": "pay_OZE4DXZR4VUF44",
+    "amount": 26543.99,
+    "currency": "INR",
+    "reason_code": "4853",
+    "network": "Mastercard",
+    "reason_description": "Defective/Not as Described",
+    "customer": {
+      "name": "Katherine Schneider",
+      "email": "xevans@example.net",
+      "ip_address": "77.187.65.83",
+      "shipping_address": "3019 Lopez Pines, Cassandraland, ID 90100"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "bfa489e6c47e27e02955d4ff9f5be52d240a7d42c6d8f111202fb3c2fb32b987"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_OZE4DXZR4VUF44.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_HCH3W4B4T4CGNR",
+    "transaction_id": "pay_KTFO4PMHS7PP12",
+    "amount": 1999.87,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Kelly Wilson",
+      "email": "wattspatrick@example.net",
+      "ip_address": "163.81.102.170",
+      "shipping_address": "640 Henry Valley Apt. 665, East Jamesview, ID 99302"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "c3acb52e557477552da91dc797d5051b0d9a2d1649ff43da6987ed30ad21cf73"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_KTFO4PMHS7PP12.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_LMQWM7FN24R3O2",
+    "transaction_id": "pay_IZPCLJDSCQKGI1",
+    "amount": 17555.7,
+    "currency": "INR",
+    "reason_code": "10.4",
+    "network": "Visa",
+    "reason_description": "Other Fraud - Card-Absent Environment",
+    "customer": {
+      "name": "Megan Clarke",
+      "email": "ashley29@example.com",
+      "ip_address": "136.180.73.114",
+      "shipping_address": "944 Meredith Shoals Apt. 661, Port Bridget, WV 28668"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "69b65336f80b7b0441c89b2c14d6097e5496bee6af4f17eb2e1e75fb19a959cd"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_IZPCLJDSCQKGI1.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_HV09YLTZJ7BROG",
+    "transaction_id": "pay_QC01J5S5IDXCQH",
+    "amount": 20570.7,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Daniel Moran",
+      "email": "michael84@example.net",
+      "ip_address": "140.151.95.225",
+      "shipping_address": "230 Martin Dale, Campbellport, HI 21323"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "8bd2d47bf99249f67e635e715fa87230f43414b169343eca7bfc4374548abef1"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_QC01J5S5IDXCQH.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_UOWKNV14BJ7SYH",
+    "transaction_id": "pay_O3I0ERJYLFKZ8Q",
+    "amount": 43290.27,
+    "currency": "INR",
+    "reason_code": "4853",
+    "network": "Mastercard",
+    "reason_description": "Defective/Not as Described",
+    "customer": {
+      "name": "Scott Hamilton",
+      "email": "brandon68@example.net",
+      "ip_address": "184.37.154.58",
+      "shipping_address": "5803 Penny River, Katherinetown, PA 60047"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "b588265358ae604023ca76c8ce8b661a74ea69ef2a583c8cb58d47fec911e77e"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_O3I0ERJYLFKZ8Q.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_7XNC2Q1WD13NCY",
+    "transaction_id": "pay_WAFD2K8A28BT9G",
+    "amount": 4975.22,
+    "currency": "INR",
+    "reason_code": "4853",
+    "network": "Mastercard",
+    "reason_description": "Defective/Not as Described",
+    "customer": {
+      "name": "Kathryn Morrison",
+      "email": "rwest@example.net",
+      "ip_address": "209.21.227.240",
+      "shipping_address": "775 Kristin Parkway, Tylerbury, PW 92015"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "d2d27a18d09cff6694c53e1620e8328cffe02161eaec4919408b35507619d436"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_WAFD2K8A28BT9G.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_HT5CG67GT6O1G6",
+    "transaction_id": "pay_O49BT33PI57FWX",
+    "amount": 12788.12,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Elizabeth Moore",
+      "email": "brandy72@example.net",
+      "ip_address": "82.90.76.225",
+      "shipping_address": "398 Murray Center, Fullerville, FM 75258"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "6b31cd9b1d951e0eca951f1ef846fbfb41861af342bcdfb244bc1df93d8bc8ba"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_O49BT33PI57FWX.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_021TGFWNUT4PK2",
+    "transaction_id": "pay_E3OL1ZMGDL7FU2",
+    "amount": 30192.87,
+    "currency": "INR",
+    "reason_code": "10.4",
+    "network": "Visa",
+    "reason_description": "Other Fraud - Card-Absent Environment",
+    "customer": {
+      "name": "Carl Payne",
+      "email": "qallen@example.com",
+      "ip_address": "159.179.27.47",
+      "shipping_address": "6670 Natalie Dam Apt. 145, Hansonburgh, WA 15271"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "384949d89ce68b6cae7f72d0d47f5689429899b07e9f542340e6880dcc7d9086"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_E3OL1ZMGDL7FU2.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_BZDW411HQ08TGV",
+    "transaction_id": "pay_0QIUBJ5LB7YJFY",
+    "amount": 41294.79,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Abigail Flores",
+      "email": "michael12@example.org",
+      "ip_address": "40.186.119.15",
+      "shipping_address": "00901 Gaines Plains, East Waynehaven, AS 40896"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "cfaf92c6c18d84fab2f29498504fc0dec89425337a47370f557090ee5cfa133d"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_0QIUBJ5LB7YJFY.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_I0C56ARCQDZ5IN",
+    "transaction_id": "pay_3F9H82GHO3IZ4C",
+    "amount": 678.61,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Amanda Sanchez",
+      "email": "iandrade@example.net",
+      "ip_address": "184.60.145.91",
+      "shipping_address": "1410 Phyllis Circles Suite 965, Deannafurt, AR 03402"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "ada18f103249cb1fedc1fb77361ee582c37a8cd7c8277c7fc736233a77c66dd5"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_3F9H82GHO3IZ4C.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_18JFU37VBM9Y25",
+    "transaction_id": "pay_X1T9IVTA6517SO",
+    "amount": 35195.74,
+    "currency": "INR",
+    "reason_code": "4853",
+    "network": "Mastercard",
+    "reason_description": "Defective/Not as Described",
+    "customer": {
+      "name": "Rachel Diaz",
+      "email": "knightvictor@example.org",
+      "ip_address": "37.93.69.121",
+      "shipping_address": "371 Mark Lane Apt. 630, New Erik, RI 56737"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "352b7adf5ee666e2ba456aed46820ff7abe65d16b465e4a66b38d97f136a4932"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_X1T9IVTA6517SO.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_RP520C5N9TF21Y",
+    "transaction_id": "pay_Q3JZS7K5DSGTX3",
+    "amount": 41215.58,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Aaron Parker",
+      "email": "jarvisdawn@example.org",
+      "ip_address": "218.124.242.135",
+      "shipping_address": "USS Guerrero, FPO AA 01438"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "267590f65637408aee5efd65d9f985483945725c4e0226bdd7749ab086069178"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_Q3JZS7K5DSGTX3.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_UXMO47RI6NCXUZ",
+    "transaction_id": "pay_AJBVL2GSQRJ5L3",
+    "amount": 2297.25,
+    "currency": "INR",
+    "reason_code": "10.4",
+    "network": "Visa",
+    "reason_description": "Other Fraud - Card-Absent Environment",
+    "customer": {
+      "name": "Michele Wilson",
+      "email": "pmartin@example.com",
+      "ip_address": "188.41.118.237",
+      "shipping_address": "5471 Robert Parkways Suite 418, Port Loritown, TX 24785"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "07d44ec5c560a96eb03cbc248163aed4506b0a1733e6e7d1174ad95f0b34482b"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_AJBVL2GSQRJ5L3.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_F9U8ERCWIZMCY1",
+    "transaction_id": "pay_ZV2QARKYBONUA7",
+    "amount": 35304.75,
+    "currency": "INR",
+    "reason_code": "4853",
+    "network": "Mastercard",
+    "reason_description": "Defective/Not as Described",
+    "customer": {
+      "name": "Michael King",
+      "email": "joel06@example.org",
+      "ip_address": "72.66.62.135",
+      "shipping_address": "75199 Preston Ville, Port Tracy, IN 91183"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "d5096d5a2bef520253261382c5d6f31fbe0cb538543015e9348de0de7ffd5de0"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_ZV2QARKYBONUA7.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_2FPVAHD7WPCK7O",
+    "transaction_id": "pay_8PJ5RDSXXCLJYV",
+    "amount": 36917.13,
+    "currency": "INR",
+    "reason_code": "4853",
+    "network": "Mastercard",
+    "reason_description": "Defective/Not as Described",
+    "customer": {
+      "name": "Shawn White",
+      "email": "marie74@example.com",
+      "ip_address": "156.159.187.109",
+      "shipping_address": "275 Jason Junction, South Rebeccaberg, AK 09749"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "68ae64e948b2dc799347a160c1c9c945716889f53840e94f24c5e70c4d14bc42"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_8PJ5RDSXXCLJYV.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_80T53935I4SUHX",
+    "transaction_id": "pay_G5YPV3PARQTB75",
+    "amount": 42563.12,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Logan King",
+      "email": "ashleyhaley@example.org",
+      "ip_address": "124.177.178.233",
+      "shipping_address": "USCGC Perry, FPO AA 34200"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "f6c06119b2e69e2d8968bbfa20d085dc027033d83e5885c91d231944b4b081dc"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_G5YPV3PARQTB75.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_ALILOV77VIE6KO",
+    "transaction_id": "pay_05GQAX8M3B0IUV",
+    "amount": 31031.35,
+    "currency": "INR",
+    "reason_code": "13.1",
+    "network": "Visa",
+    "reason_description": "Merchandise/Services Not Received",
+    "customer": {
+      "name": "Nathan Brown",
+      "email": "drewbaker@example.org",
+      "ip_address": "24.166.202.54",
+      "shipping_address": "49963 Murray Spurs, Lake Laura, WA 56599"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "6c8990e7ffea1f02403c9bda628dfef5c1b8ce520581902067c1e3b84d261107"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_05GQAX8M3B0IUV.pdf"
+    ]
+  },
+  {
+    "dispute_id": "disp_SGZR8SFKJOYBU4",
+    "transaction_id": "pay_EB5W39IYHJKOHG",
+    "amount": 21791.76,
+    "currency": "INR",
+    "reason_code": "4837",
+    "network": "Mastercard",
+    "reason_description": "No Cardholder Authorization",
+    "customer": {
+      "name": "Alison Sherman",
+      "email": "floydrachel@example.net",
+      "ip_address": "160.158.214.213",
+      "shipping_address": "6207 Jeremy Track Apt. 010, Michellechester, CA 87154"
+    },
+    "telemetry": {
+      "avs_match": "Y",
+      "three_ds_version": "2.2.0",
+      "three_ds_status": "Y",
+      "device_fingerprint": "f059892737c254fffdfd9d31fdf7a0838c7220f935264edfc63cf9a42a264917"
+    },
+    "evidence_files": [
+      "data\\synthetic_docs\\invoice_pay_EB5W39IYHJKOHG.pdf"
+    ]
+  }
+]

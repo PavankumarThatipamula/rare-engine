@@ -1,0 +1,21 @@
+# Web & API Framework
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+requests>=2.31.0
+httpx>=0.27.0            # Required for FastAPI TestClient / async requests
+
+# Data Generation & PDF Creation
+faker>=24.0.0
+reportlab>=4.1.0         # Generating defense packet PDFs
+
+# Document Extraction & Reading (Needed to read incoming evidence PDFs)
+pypdf>=4.0.0             # Parsing invoice evidence PDFs
+
+# RAG & LLM Engine
+openai>=1.14.0           # OpenAI API client
+chromadb>=0.4.24         # Vector database for card-network rules (or faiss-cpu)
+
+# Testing
+pytest>=8.0.0

@@ -1,0 +1,27 @@
+# Python & Virtual Environments
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+
+# Environment Secrets
+.env
+.env.local
+
+# Generated Data & Rebuttals (Keep directory structure, ignore generated files)
+data/synthetic_docs/*.pdf
+data/rebuttals/*.pdf
+data/rebuttals/*.txt
+data/vector_db/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
