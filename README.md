@@ -203,21 +203,31 @@ Generate Defense Argument & Compile PDF Packet
 ```text
 rare-engine/
 ├── data/
-│   ├── synthetic_docs/    # Generated evidence PDFs
-│   ├── rebuttals/         # Output defense packets (.pdf & .txt)
-│   └── test_cases.json    # Dispute datasets
+│   ├── synthetic_docs/
+│   ├── rebuttals/
+│   └── test_cases.json
+├── docs/
+│   ├── architecture/
+│   │   └── 00_baseline_architecture.md
+│   ├── decisions/
+│   │   └── 0001-local-first-git-workflow.md
+│   ├── development/
+│   └── roadmap/
+│       └── 00_master_roadmap.md
 ├── src/
 │   ├── __init__.py
-│   ├── config.py          # System environment & paths
-│   ├── document_agent.py  # Evidence extraction & Pydantic validation
-│   ├── exporter.py        # PDF defense packet generator
-│   ├── main.py            # CLI orchestrator & FastAPI server
-│   ├── rag_engine.py      # Network rules retrieval & argument synthesis
+│   ├── config.py
+│   ├── document_agent.py
+│   ├── exporter.py
+│   ├── main.py
+│   ├── rag_engine.py
 │   └── synthetic_generator.py
 ├── tests/
-│   └── test_harness.py    # Test harness & benchmark suite
+│   └── test_harness.py
 ├── .env
 ├── .gitignore
+├── AGENTS.md
+├── CONTRIBUTING.md
 ├── README.md
 └── requirements.txt
 
