@@ -1,0 +1,25 @@
+{
+  "VISA_10.4": {
+    "network": "Visa",
+    "reason_code": "10.4",
+    "title": "Other Fraud - Card-Absent Environment",
+    "governing_clause": "Visa Core Rules and Visa Product and Service Rules, Section 10.4",
+    "compelling_evidence_required": [
+      "Proof of 3D Secure v2.x authentication (Liability Shift)",
+      "AVS match response code (Y or Z)",
+      "IP address and device fingerprint telemetry logs",
+      "Customer invoice and proof of delivery"
+    ]
+  },
+  "MASTERCARD_4837": {
+    "network": "Mastercard",
+    "reason_code": "4837",
+    "title": "No Cardholder Authorization",
+    "governing_clause": "Mastercard Chargeback Guide, Section 3.4 - Reason Code 4837",
+    "compelling_evidence_required": [
+      "EMV 3DS authentication cryptogram",
+      "Matches on AVS and CVC2 validation",
+      "Itemized electronic receipt and IP log"
+    ]
+  }
+}

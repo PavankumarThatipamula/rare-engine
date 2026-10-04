@@ -1,21 +1,17 @@
-import pytest
-from pathlib import Path
-from src.document_agent import DocumentProcessingAgent
-from src.rag_engine import CardNetworkRAGEngine
-from src.synthetic_generator import generate_synthetic_dataset
-
-BASE_DIR = Path(__file__).resolve().parent.parent
-TEST_CASES_FILE = BASE_DIR / "data" / "test_cases.json"
+from rare.config import settings
+from rare.document_agent import DocumentProcessingAgent
+from rare.rag_engine import CardNetworkRAGEngine
+from rare.synthetic_generator import generate_synthetic_dataset
 
 
 def test_synthetic_generation():
     """Verify synthetic dataset generator writes valid payload files."""
     generate_synthetic_dataset(num_cases=3)
-    assert TEST_CASES_FILE.exists()
+    assert settings.TEST_CASES_FILE.exists()
 
 
 def test_document_agent_extraction():
-    """Verify document agent extracts 100% telemetry score on valid payload."""
+    """Verify document agent extracts telemetry on valid payload."""
     agent = DocumentProcessingAgent()
     packages = agent.process_all_test_cases()
     assert len(packages) > 0
@@ -38,9 +34,6 @@ def test_rag_rebuttal_synthesis():
 if __name__ == "__main__":
     print("[*] Running RARE Engine Benchmark & Test Suite...")
     test_synthetic_generation()
-    print("  [✓] Synthetic Generation Test Passed")
     test_document_agent_extraction()
-    print("  [✓] Document Extraction Test Passed")
     test_rag_rebuttal_synthesis()
-    print("  [✓] RAG Rebuttal Synthesis Test Passed")
     print("\n[ALL TESTS PASSED] RARE Engine components are 100% operational.")
