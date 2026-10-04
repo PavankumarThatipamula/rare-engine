@@ -77,7 +77,7 @@ Expose REST endpoints (`POST /disputes/represent`) to seamlessly ingest live dis
 
 1. **Clone the repository:**
 ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/PavankumarThatipamula/rare-engine
    cd rare-engine
 ```
 
