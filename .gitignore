@@ -4,12 +4,16 @@ venv/
 ENV/
 __pycache__/
 *.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
 
 # Environment Secrets
 .env
 .env.local
 
-# Generated Data & Rebuttals (Keep directory structure, ignore generated files)
+# Generated Data & Rebuttals
 data/synthetic_docs/*.pdf
 data/rebuttals/*.pdf
 data/rebuttals/*.txt
@@ -21,7 +25,9 @@ data/vector_db/
 .DS_Store
 Thumbs.db
 
-# Testing & Coverage
+# Testing & Linting Caches
 .pytest_cache/
+.pyright_cache/
+.ruff_cache/
 .coverage
 htmlcov/
